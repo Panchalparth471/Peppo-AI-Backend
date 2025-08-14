@@ -1,0 +1,32 @@
+{
+  "id": "7dc02336cd514ccfbb08394c99f77b61",
+  "created_at": "2025-08-14T11:27:34.233930",
+  "messages": [
+    {
+      "role": "user",
+      "text": "bear roaming around house",
+      "meta": {
+        "source": "frontend"
+      },
+      "ts": "2025-08-14T11:27:44.162724"
+    },
+    {
+      "role": "assistant",
+      "text": "Generating a short (5s) preview video based on your prompt. I'll return the video when ready.",
+      "meta": {
+        "brief": "bear roaming around house \u2014 Context: user: bear roaming around house"
+      },
+      "ts": "2025-08-14T11:27:44.191192"
+    },
+    {
+      "role": "assistant",
+      "text": "[VIDEO GENERATED] brief=bear roaming around house \u2014 Context: user: bear roaming around house",
+      "meta": {
+        "video": "2e8b81486d0d43d3a23c4b241b2620c8.mp4",
+        "mock": false,
+        "elapsed": 0.0012772083282470703
+      },
+      "ts": "2025-08-14T11:27:44.214122"
+    }
+  ]
+}

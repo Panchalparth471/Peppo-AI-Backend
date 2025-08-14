@@ -1,0 +1,32 @@
+{
+  "id": "207862a03a63469888afc00ec8459d30",
+  "created_at": "2025-08-14T11:23:18.729008",
+  "messages": [
+    {
+      "role": "user",
+      "text": "A calm forest with falling leaves and soft sunlight, 6s",
+      "meta": {
+        "source": "frontend"
+      },
+      "ts": "2025-08-14T11:23:22.044431"
+    },
+    {
+      "role": "assistant",
+      "text": "Generating a short (5s) preview video based on your prompt. I'll return the video when ready.",
+      "meta": {
+        "brief": "A calm forest with falling leaves and soft sunlight, 6s \u2014 Context: user: A calm forest with falling leaves and soft sunlight, 6s"
+      },
+      "ts": "2025-08-14T11:23:22.060997"
+    },
+    {
+      "role": "assistant",
+      "text": "[VIDEO GENERATED] brief=A calm forest with falling leaves and soft sunlight, 6s \u2014 Context: user: A calm forest with falling leaves and soft sunlight, 6s",
+      "meta": {
+        "video": "4da5666f782d4d4da5e4a7f2f6114550.mp4",
+        "mock": false,
+        "elapsed": 255.014399766922
+      },
+      "ts": "2025-08-14T11:27:37.106863"
+    }
+  ]
+}

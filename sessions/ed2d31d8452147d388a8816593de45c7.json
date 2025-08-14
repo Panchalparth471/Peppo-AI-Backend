@@ -1,0 +1,22 @@
+{
+  "id": "ed2d31d8452147d388a8816593de45c7",
+  "created_at": "2025-08-14T11:06:36.629971",
+  "messages": [
+    {
+      "role": "user",
+      "text": "Generate video of dancing robot",
+      "meta": {
+        "source": "frontend"
+      },
+      "ts": "2025-08-14T11:06:36.660487"
+    },
+    {
+      "role": "assistant",
+      "text": "Generating a short (5\u201310s) video based on your prompt. I'll return the video file when ready.",
+      "meta": {
+        "brief": "Generate video of dancing robot \u2014 Context: user: Generate video of dancing robot"
+      },
+      "ts": "2025-08-14T11:06:36.685298"
+    }
+  ]
+}
